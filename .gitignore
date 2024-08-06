@@ -1,0 +1,9 @@
+**/obj
+**/debug
+**/Library
+.vs/
+**/Temp
+**/Build
+**/BuildsHistory
+**/SaveExample
+**/*.meta
